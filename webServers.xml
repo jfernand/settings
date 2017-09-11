@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7206f97e-70bd-4e4e-a1fc-1d8822d9e0c6" name="tomcat 8 webapps" url="http://localhost:8080">
+        <fileTransfer port="0" mountedRoot="/usr/local/Cellar/tomcat/8.0.27/libexec" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
