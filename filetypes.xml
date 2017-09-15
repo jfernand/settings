@@ -11,8 +11,10 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="Dockerfile-alpine" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="alpine" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
