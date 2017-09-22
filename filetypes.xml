@@ -16,6 +16,7 @@
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="IpLocationV3.java" type="PLAIN_TEXT" />
       <mapping ext="alpine" type="PLAIN_TEXT" />
+      <mapping ext="settings" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
