@@ -1,8 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
     <injection language="MySQL" injector-id="java">
-      <display-name>Category.debug (org.apache.log4j)</display-name>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("debug").withParameters("java.lang.Object").definedInClass("org.apache.log4j.Category"))]]></place>
+      <display-name>DB (com.eprize)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execute").withParameters("java.lang.String").definedInClass("com.eprize.DB"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepare").withParameters("java.lang.String").definedInClass("com.eprize.DB"))]]></place>
     </injection>
   </component>
 </application>
