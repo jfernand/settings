@@ -1,5 +1,6 @@
 <code_scheme name="Default (1)">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="USE_EXTERNAL_ANNOTATIONS" value="true" />
   <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
   <option name="JD_KEEP_INVALID_TAGS" value="false" />
   <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
