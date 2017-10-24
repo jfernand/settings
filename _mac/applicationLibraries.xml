@@ -1,5 +1,14 @@
 <application>
   <component name="libraryTable">
+    <library name="Checker Framework 1.8.4">
+      <CLASSES>
+        <root url="$APPLICATION_PLUGINS_DIR$/intellij-checker-framework/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <LIBRARY_FILE />
+      <SOURCES />
+      <jarDirectory url="$APPLICATION_PLUGINS_DIR$/intellij-checker-framework/lib" recursive="false" />
+    </library>
     <library name="groovy-2.4.10">
       <CLASSES>
         <root url="jar:///usr/local/Cellar/groovy/2.4.10/libexec/lib/ant-1.9.4.jar!/" />
