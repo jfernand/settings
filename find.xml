@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../persistence/src/main/java/com/eprize/fulfillment/services/data/CommonCodedConstantsDao.java - [persistence_main]'" />
-    <option name="defaultScopeName" value="File '.../persistence/src/main/java/com/eprize/fulfillment/services/data/CommonCodedConstantsDao.java - [persistence_main]'" />
+    <option name="customScope" value="File '.../persistence/src/main/java/com/eprize/fulfillment/services/data/WinsDao.java - [persistence_main]'" />
+    <option name="defaultScopeName" value="File '.../persistence/src/main/java/com/eprize/fulfillment/services/data/WinsDao.java - [persistence_main]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../persistence/src/main/java/com/eprize/fulfillment/services/data/CommonCodedConstantsDao.java - [persistence_main]'" />
+    <option name="SEARCH_SCOPE" value="File '.../persistence/src/main/java/com/eprize/fulfillment/services/data/WinsDao.java - [persistence_main]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
