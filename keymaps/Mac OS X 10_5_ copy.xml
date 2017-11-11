@@ -3,6 +3,7 @@
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="DatabaseView.PropertiesAction" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl minus" />
@@ -15,6 +16,9 @@
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="FileChooser.GotoProject" />
+  <action id="InferNullity">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="Maven_9fc050f7fulfillment-service4b093b5fverify">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
