@@ -11,6 +11,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xsd" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,15 +24,17 @@
       <mask>*.js*</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.js</mask>
       <mask>*.jsp</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xs</mask>
+      <mask>*.xsd</mask>
     </recentFileMasks>
   </component>
 </application>
