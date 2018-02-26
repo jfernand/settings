@@ -1,6 +1,6 @@
 <application>
   <component name="Perl5ApplicationSettings">
-    <option name="pluginVersion" value="2017.4.1" />
+    <option name="pluginVersion" value="2017.5" />
     <option name="popupShown" value="true" />
   </component>
   <component name="PerlInterpreters">
@@ -28,6 +28,9 @@
         <javadocPath>
           <root type="composite" />
         </javadocPath>
+        <libFile>
+          <root type="composite" />
+        </libFile>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
