@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../src/com/eprize/scheduler/ShowTasksCommandddd.java [awe_main]'" />
+    <option name="defaultScopeName" value="File '.../src/com/eprize/scheduler/ShowTasksCommandddd.java [awe_main]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../src/com/eprize/scheduler/ShowTasksCommandddd.java [awe_main]'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -31,9 +32,9 @@
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.jsp</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
