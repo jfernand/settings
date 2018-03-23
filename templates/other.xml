@@ -1,8 +1,7 @@
 <templateSet group="other">
-  <template name="inc" value="if ($VAR1$ == null || $VAR2$ == null) {&#10;    return &quot;&quot;&#10;}" description="insert null check" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR1" expression="methodName()" defaultValue="" alwaysStopAt="true" />
-    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="inc" value="if ($END$ == null || $SELECTION$ == null) {&#10;    return &quot;&quot;;&#10;}&#10;&#10;return $SELECTION$" description="insert null check" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="JAVA_EXPRESSION" value="true" />
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
