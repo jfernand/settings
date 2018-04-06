@@ -1,6 +1,5 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="http://www.springframework.org/schema/security/spring-security.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/67d00c89_spring-security.xsd" />
     <ignored-resource url="antlib:org.apache.ivy.ant" />
   </component>
 </application>
