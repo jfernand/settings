@@ -14,11 +14,12 @@
       <mapping pattern="Dockerfile-alpine" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
       <mapping pattern="IpLocationV3.java" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
-      <mapping ext="alpine" type="PLAIN_TEXT" />
       <mapping ext="settings" type="PLAIN_TEXT" />
+      <mapping ext="alpine" type="PLAIN_TEXT" />
+      <mapping pattern="winWorkQueue" type="XML" />
     </extensionMap>
   </component>
 </application>
