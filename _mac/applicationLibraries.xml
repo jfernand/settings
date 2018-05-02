@@ -54,7 +54,9 @@
       </CLASSES>
       <JAVADOC />
       <LIBRARY_FILE />
-      <SOURCES />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ideaLibSources/groovy-2.4.10-sources.jar!/" />
+      </SOURCES>
     </library>
   </component>
 </application>
